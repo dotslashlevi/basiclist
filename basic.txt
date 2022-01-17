@@ -45,7 +45,6 @@
 ||doubleclickbygoogle.com
 ||doubleclick.com
 ||doubleclick.net
-||ggpht.com
 ||fonts.googleapis.com
 ||fonts.google.com
 
@@ -86,7 +85,6 @@
 |doubleclickbygoogle.com|
 |doubleclick.com|
 |doubleclick.net|
-|ggpht.com|
 |fonts.googleapis.com|
 |fonts.google.com|
 
@@ -107,13 +105,3 @@
 ||google.com^$script
 ||duckduckgo.com^$script
 ||startpage.com^$script
-
-@@||google.com^$generichide
-@@||duckduckgo.com^$generichide
-@@||startpage.com^$generichide
-@@||youtube.com^$generichide
-
-@@||google.com^$elemhide
-@@||duckduckgo.com^$elemhide
-@@||startpage.com^$elemhide
-@@||youtube.com^$elemhide
