@@ -48,7 +48,6 @@
 ||ggpht.com
 ||fonts.googleapis.com
 ||fonts.google.com
-||googleusercontent.com
 
 |pornhub.com|
 |xvideos.com|
@@ -90,7 +89,6 @@
 |ggpht.com|
 |fonts.googleapis.com|
 |fonts.google.com|
-|googleusercontent.com|
 
 ||google.com^$subdocument
 ||duckduckgo.com^$subdocument
