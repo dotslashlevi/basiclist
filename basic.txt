@@ -876,6 +876,3 @@
 ||cctldtest.youtu.be
 ||goo.gl
 ||images.app.goo.gl
-||surf.youtu.be
-||www.yt.be
-||yt.be
