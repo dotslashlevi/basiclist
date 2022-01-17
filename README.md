@@ -12,4 +12,9 @@ Find the area where you add the blocklist and place this url:
 https://raw.githubusercontent.com/dotslashlevi/basiclist/main/basic.txt
 ```
 
+If that doesn't work try
+```
+https://github.com/dotslashlevi/basiclist/blob/main/basic.txt
+```
+
 Then press Okay or Add!
