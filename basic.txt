@@ -2,7 +2,6 @@
 ! Version: 170122
 ! Title: BasicList
 ! Last modified: 17 Jan 2022 14:39 UTC
-
 ||pornhub.com
 ||xvideos.com
 ||ublock.org
@@ -47,7 +46,6 @@
 ||doubleclick.net
 ||fonts.googleapis.com
 ||fonts.google.com
-
 |pornhub.com|
 |xvideos.com|
 |ublock.org|
@@ -87,21 +85,3 @@
 |doubleclick.net|
 |fonts.googleapis.com|
 |fonts.google.com|
-
-||google.com^$subdocument
-||duckduckgo.com^$subdocument
-||startpage.com^$subdocument
-||youtube.com^$subdocument
-
-||google.com^$popup
-||duckduckgo.com^$popup
-||startpage.com^$popup
-||youtube.com^$popup
-
-||google.com^$third-party
-||duckduckgo.com^$third-party
-||startpage.com^$third-party
-
-||google.com^$script
-||duckduckgo.com^$script
-||startpage.com^$script
