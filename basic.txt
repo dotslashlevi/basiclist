@@ -8,7 +8,6 @@
 ||www.googleadservices.com
 ||www.doubleclick.net
 ||www.doubleclick.com
-||id.google.com
 ||id.google.net
 ||ads.google.com
 ||news.google.com
