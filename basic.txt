@@ -9,11 +9,6 @@
 ||googlesyndication.com/
 ||googleadservices.com/
 ||google-analytics.com/
-||google.com*/lh/ajaxlog?
-||google.com*/uds/stats?
-||google.com*/bin/stats?
-||google.com*/log?
-||google.com*/buzz/
 ||doubleclickbygoogle.com/
 ||doubleclick.com/
 ||doubleclick.net/
