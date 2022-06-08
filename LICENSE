@@ -1,0 +1,33 @@
+Spotty License
+
+Copyright (c) 2022 Levi Chavez
+
+-----
+Terms Used
+-----
+
+Warranty - Paid support for those using the software.
+
+Software - The program or application created by the developer.
+
+README - The front page of the github repo, a file in the compressed archive, or a file noted somewhere in the about page of the executable.
+
+Telemetry - The tracking of usage stats or any System/Network info.
+
+-----
+Usage
+-----
+
+1. Users are allowed free use for all programs under this license. This does not mean any illegal usage.
+
+2. If a software is using this license and is paid, it must have a fully open source version without any removed features.
+
+3. If the software is not fully modified, then it will need proper credits in the code and README.
+  
+  3a. If the code is more than 75% modified, then credits are needed in an About section of the program.
+  
+4. You may not have warranties under this license, the code created must be warranty free. The code should be created as-is.
+
+  4a. You are allowed to give free support via chat protocols such as Matrix, and other methods such as Github Issues.
+
+5. Applications must have no telemetry or Opt-In telemetry, which requires consent to track.
