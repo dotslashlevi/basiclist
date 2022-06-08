@@ -26,7 +26,6 @@
 ||crashlytics.com/
 ||googleapis.com/
 ||adgoogle.net/
-||analytic-google.com/
 ||withgoogle.com/
 ||googlehosted.com/
 ||googlehosted.com/
