@@ -1,20 +1,22 @@
-# basiclist
+# BasicList
 A Basic but powerful adblock list. Maintained by the community!
 
+# What does this block?
+
+This blocks Google ads and analytics, as well as common pornography sites.
+
+It will soon block Microsoft analytics and ads, as well as a list of what I consider "unsafe" search engines.
+
 # Adding to your ad blocker:
-The Process is different for most ad blockers, but most of the time you want to go to a "Custom Filters" or "Custom Lists" section.
 
-It could also be called "Block Lists" or "Filter Lists".
+*Note: This is for AdBlockers using the AdBlockPlus Syntax.
 
-Find the area where you add the blocklist and place this url:
+The Process is different for most ad blockers, but most of the time you want to go to the area where you add custom blocklists.
+
+Then you want to paste this URL.
 
 ```
 https://raw.githubusercontent.com/dotslashlevi/basiclist/main/basic.txt
 ```
 
-If that doesn't work try
-```
-https://github.com/dotslashlevi/basiclist/raw/main/basic.txt
-```
-
-Then press Okay or Add!
+Then apply it, and the list will do its work.
