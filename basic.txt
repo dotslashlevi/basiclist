@@ -1,10 +1,12 @@
-! Version: 100422
+! Version: 070622
 ! Title: BasicList
-! Last modified: 10 Apr 2022 3:38 UTC
-||pornhub.com
-||xvideos.com
-||charturbate.com
-||stripchat.com
+! Last modified: 7 Jun 2022 2:36 UTC
+||pornhub.com/
+||xvideos.com/
+||redtube.com/
+||charturbate.com/
+||stripchat.com/
+||streamen.com/
 ||doubleclick.net/
 ||doubleclick.com/
 ||googleadservices.com/
@@ -18,7 +20,6 @@
 ||adservice.google.com/
 ||adservice.google.net/
 ||id.google.com/
-||id.google.net/
 ||firebase.com/
 ||firebaseio.com/
 ||appspot.com/
@@ -28,11 +29,7 @@
 ||analytic-google.com/
 ||withgoogle.com/
 ||googlehosted.com/
-||google-analytics-cn.com/
-||googleadapis-cn.com/
-||googleadservices-cn.com/
 ||googlehosted.com/
-||googleoptimize-cn.com/
 ||googleoptimize.com/
 ||googletagmanager-cn.com/
 ||googletagmanager.com/
@@ -41,5 +38,3 @@
 ||www.adgoogle.net/
 ||www.googleanalytics.com/
 ||www.googleoptimize.com/
-||goo.gl/
-||g.co/
