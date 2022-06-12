@@ -3,17 +3,19 @@ A Basic but powerful adblock list. Maintained by the community!
 
 # What does this block?
 
-This blocks Google ads and analytics, Amazon ads and analytics, plus common pornography sites.
+This blocks
+- Tracker infested search engines
+- Google ads and analytics
+- Amazon ads and analytics
+- Common pornography sites
 
-It will soon block Microsoft analytics and ads, as well as a list of what I consider "unsafe" search engines.
+It will soon block Microsoft analytics and ads.
 
 # Adding to your ad blocker:
 
 *Note: This is for AdBlockers using the AdBlockPlus Syntax.
 
-The Process is different for most ad blockers, but most of the time you want to go to the area where you add custom blocklists.
-
-Then you want to paste this URL.
+The Process is different for most ad blockers, but you want to go to the Custom blocklists section, then paste this URL.
 
 ```
 https://raw.githubusercontent.com/dotslashlevi/basiclist/main/basic.txt
