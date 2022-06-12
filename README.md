@@ -3,7 +3,7 @@ A Basic but powerful adblock list. Maintained by the community!
 
 # What does this block?
 
-This blocks Google ads and analytics, as well as common pornography sites.
+This blocks Google ads and analytics, Amazon ads and analytics, plus common pornography sites.
 
 It will soon block Microsoft analytics and ads, as well as a list of what I consider "unsafe" search engines.
 
