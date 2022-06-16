@@ -1,15 +1,11 @@
-! Version: 120622
+! Version: 160622
 ! Title: BasicList
-! Last modified: 12 Jun 2022 3:09 AM UTC
-||google.com
-||bing.com
+! Last modified: 16 Jun 2022 9:54 AM UTC
 ||pornhub.com/
 ||xvideos.com/
 ||redtube.com/
 ||charturbate.com/
 ||stripchat.com/
-||streamen.com/
-||imdb.com/
 ||amazon-adsystem.com/
 ||zedo.com/
 ||optimizely.com/
@@ -18,12 +14,9 @@
 ||intentmedia.net/
 ||company-target.com/
 ||rvttrack.com/
-||aboutamazon.com/
 ||ad-delivery.net/
 ||ipredictive.com/
 ||qualtrics.com/
-||amazoninspire.com/
-||amazonrobotics.com/
 ||supplyframe.com/
 ||doubleclick.net/
 ||doubleclick.com/
