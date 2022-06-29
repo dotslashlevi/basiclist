@@ -1,44 +1,28 @@
-! Version: 160622
 ! Title: BasicList
-! Last modified: 16 Jun 2022 9:57 AM UTC
+! Last modified: 29 Jun 2022 9:24 AM UTC
 ||pornhub.com/
-||xvideos.com/
-||redtube.com/
-||charturbate.com/
-||stripchat.com/
-||optimizely.com/
+||xvideos.com
+||redtube.com
 ||company-target.com/
 ||ad-delivery.net/
 ||ipredictive.com/
-||qualtrics.com/
 ||supplyframe.com/
 ||doubleclick.net/
 ||doubleclick.com/
 ||googleadservices.com/
-||googletagservices.com/
 ||googlesyndication.com/
-||googleadservices.com/
 ||google-analytics.com/
 ||doubleclickbygoogle.com/
 ||doubleclick.com/
 ||doubleclick.net/
 ||adservice.google.com/
-||adservice.google.net/
 ||id.google.com/
 ||firebase.com/
-||firebaseio.com/
 ||appspot.com/
 ||crashlytics.com/
 ||googleapis.com/
 ||adgoogle.net/
 ||withgoogle.com/
-||googlehosted.com/
-||googlehosted.com/
 ||googleoptimize.com/
-||googletagmanager-cn.com/
 ||googletagmanager.com/
-||googletagservices.com/
-||googleoptimize.com/
-||www.adgoogle.net/
-||www.googleanalytics.com/
-||www.googleoptimize.com/
+||googleanalytics.com/
