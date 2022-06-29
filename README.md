@@ -4,7 +4,6 @@ A Basic but powerful adblock list. Maintained by the community!
 # What does this block?
 
 This blocks
-- Tracker infested search engines
 - Google ads and analytics
 - Amazon ads and analytics
 - Common pornography sites
